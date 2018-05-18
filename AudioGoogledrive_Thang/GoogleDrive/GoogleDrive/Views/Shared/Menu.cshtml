@@ -1,0 +1,15 @@
+﻿@model GoogleDrive.Common.UserLogin
+
+<li>@Html.ActionLink("Home", "Index", "Home")</li>
+@if (Model.Equals(null))
+{
+    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+}
+else
+{
+    if (Model.username.Equals("admin"))
+    {
+        <li>@Html.ActionLink("Upload", "Upload", "Home")</li>
+    }
+}

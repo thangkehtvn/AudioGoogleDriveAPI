@@ -1,0 +1,187 @@
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\ApplicationInsights.config
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll.config
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\GoogleDrive.pdb
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.PlatformServices.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.Web.Infrastructure.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Net.Http.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Razor.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\WebGrease.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.Razor.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.pdb
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.xml
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csproj.CoreCompileInputs.cache
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.dll
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.pdb
+D:\Quang\IT\Tài liệu đh\Năm 4\Cac ky thuat giau tin\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\ApplicationInsights.config
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll.config
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\GoogleDrive.pdb
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\EntityFramework.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.PlatformServices.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.IO.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Net.Http.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Runtime.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Razor.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\WebGrease.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\EntityFramework.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.Razor.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.pdb
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.xml
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csproj.CopyComplete
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.dll
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.pdb
+C:\Users\root\Desktop\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csprojResolveAssemblyReference.cache
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\ApplicationInsights.config
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll.config
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\GoogleDrive.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\GoogleDrive.pdb
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\EntityFramework.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\EntityFramework.SqlServer.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.PlatformServices.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.Web.Infrastructure.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.IO.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Net.Http.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Runtime.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Algorithms.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Encoding.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.Primitives.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Security.Cryptography.X509Certificates.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Razor.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\WebGrease.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\EntityFramework.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\EntityFramework.SqlServer.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Auth.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Core.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v2.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Google.Apis.Drive.v3.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Newtonsoft.Json.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Helpers.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Mvc.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Optimization.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.Razor.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Deployment.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\System.Web.WebPages.Razor.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Antlr3.Runtime.pdb
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.ApplicationInsights.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.DependencyCollector.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.WindowsServer.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\bin\Microsoft.AI.Web.xml
+D:\ThangKe\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csprojAssemblyReference.cache
+D:\ThangKe\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csproj.CoreCompileInputs.cache
+D:\ThangKe\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.csproj.CopyComplete
+D:\ThangKe\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.dll
+D:\ThangKe\GoogleDrive\GoogleDrive\obj\Debug\GoogleDrive.pdb

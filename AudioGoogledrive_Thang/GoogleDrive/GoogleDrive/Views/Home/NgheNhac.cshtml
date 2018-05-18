@@ -1,0 +1,13 @@
+﻿@model IEnumerable<GoogleDrive.Models.GoogleDriveFiles>
+@{
+    ViewBag.Title = "NgheNhac";
+    var url = ViewBag.url;
+}
+<h2>Nghe nhac</h2>
+
+<audio controls controlsList ="nodownload" >
+    <source src="@url" type="audio/mpeg">
+</audio>
+
+
+
